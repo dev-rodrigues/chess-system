@@ -1,4 +1,4 @@
-package domain;
+package domain.boardgame;
 
 /*
  * @author Carlos Henrique
