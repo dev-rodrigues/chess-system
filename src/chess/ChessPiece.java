@@ -7,11 +7,12 @@ import boardgame.Piece;
  * @author Carlos Henrique
  * @github github.com/httpsantos
  */
-public class ChessPiece extends Piece {
-	
+public abstract class ChessPiece extends Piece {
+
 	private Color color;
-	
+
 	public ChessPiece() {
+	
 	}
 
 	public ChessPiece(Board board, Color color) {
